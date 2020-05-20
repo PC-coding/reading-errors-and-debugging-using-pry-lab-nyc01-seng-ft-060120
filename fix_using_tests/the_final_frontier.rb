@@ -13,6 +13,10 @@ def state_log(star_date)
 end
 
 def crew
+  [Partap, Jason, Sarina]
+end
+
+def crew_greetings
   
 def engage
   binding.pry
