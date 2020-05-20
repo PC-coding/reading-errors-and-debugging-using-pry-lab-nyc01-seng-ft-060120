@@ -15,8 +15,6 @@ end
 def crew
   [Partap, Jason, Sarina]
 end
-
-def crew_greetings
   
 def engage
   binding.pry
