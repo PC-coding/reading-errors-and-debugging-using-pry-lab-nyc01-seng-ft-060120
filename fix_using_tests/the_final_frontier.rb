@@ -20,4 +20,5 @@ def engage
   binding.pry
   puts state_log(date)
   date = generate_star_date
+  greet_crew(crew)
 end
